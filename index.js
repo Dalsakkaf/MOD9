@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 // TODO: Create an array of questions for user input
 const questions = [
-  "(title? (required)",
+  "Title? (required)",
   "Section Titles? (required)",
   "Description? (required)",
   "Table of Content (required)",
